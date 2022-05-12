@@ -1,0 +1,111 @@
+
+
+@media (max-width: 991.98px) {
+    
+    .header{
+        background-size: 100% 100%;
+        height: auto;
+    }
+    .navbar-nav {
+        background: #151350;
+        padding: 15px 0;
+        display: block;
+    }
+    .header .content {
+        margin-top: 40px;
+        padding-bottom: 70px;
+    }
+    .footer{
+        background-size: 100% 100%;
+    }
+    .brochure-icon{
+        bottom: -50px;
+    }
+    
+}
+
+@media (max-width: 767.98px) {
+    
+    .header .content .box.image{
+        display: none;
+    }
+    .header .content h3{
+        font-size: 23pt;
+    }
+    .header .content p {
+        font-size: 14px;
+        margin: 15px 0;
+    }
+    .header .content a {
+        width: 180px;
+        height: 45px;
+        line-height: 44px;
+    }
+    .footer {
+        background: #0c0c4b;
+    }
+    .quan{
+        display: none;
+    }
+    .cart-content table tr th{
+        padding: 8px;
+        font-size: 10px;
+    }
+    .cart-content table tr td {
+        padding: 8px;
+        font-size: 10px;
+    }
+    .cart-content table tr td img{
+        max-width: 20px;
+    }
+    
+    
+    
+    .check-out{
+        width: 100%;
+    }
+    .menu{
+        display: none;
+    }
+    .contact-form .content {
+        border-left: none;
+        padding-left: 0;
+    }
+    .map img{
+        width: 100%;
+    }
+    .contact-form .cont ul li{
+        font-size: 14px;
+    }
+    .contact-form .cont ul li img{
+        width: 22px;
+    }
+    
+}
+
+@media (max-width: 575.98px) {
+    
+    .works h3{
+        font-size: 23pt;
+    }
+    .works p{
+        font-size: 13px;
+        margin-bottom: 20px;
+    }
+    .main-menu #navbarDropdown {
+        width: 5rem;
+        font-size: 11px;
+        margin-top: 9px;
+    }
+  .main-menu #navbarDropdown img {
+    width: 15px;
+    margin-left: 0;
+    margin-top: 3px;
+}
+    .shopping-btn button,.checkout-btn{
+        font-size: 10px;
+        padding: 10px;
+        margin: 0;
+    }
+    
+}
